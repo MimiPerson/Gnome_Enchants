@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Gnome Enchants
+## Notes: Easy way to search for enchant in the auction house
+## Author: DarkXJack
+
+Gnome_Enchants.lua
